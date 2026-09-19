@@ -1,0 +1,9 @@
+# Core Computer Vision and Hand Tracking Libraries
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+Pillow>=9.5.0
+numpy>=1.24.0
+
+# Note:
+# 'tkinter' is included by default with standard Python installations on Windows and macOS.
+# On Linux (Ubuntu/Debian), install it via: sudo apt-get install python3-tk
